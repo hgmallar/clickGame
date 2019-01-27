@@ -13,4 +13,4 @@ Uses:
 * Responsive web design.
 
 ## Clicky Game Image
-![Frontpage](./assets/images/clicky.PNG)
+![Frontpage](/assets/images/clicky.PNG)
