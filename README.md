@@ -12,5 +12,3 @@ Uses:
 * Uses CSS Flexbox and Google Fonts styling.
 * Responsive web design.
 
-## Clicky Game Image
-![Frontpage](./assets/images/clicky.PNG)
